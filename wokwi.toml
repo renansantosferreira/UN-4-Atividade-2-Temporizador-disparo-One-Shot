@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/UN-4-Atividade-2-Temporizador-disparo-One-Shot.uf2'
+elf = 'build/UN-4-Atividade-2-Temporizador-disparo-One-Shot.elf'
