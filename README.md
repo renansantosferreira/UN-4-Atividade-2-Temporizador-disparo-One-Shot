@@ -28,7 +28,7 @@ Este projeto implementa um sistema de temporização utilizando a função `add_
 ## Como Compilar e Executar
 1. Instale o [Pico SDK](https://github.com/raspberrypi/pico-sdk).
 2. Clone este repositório e configure o ambiente do Pico SDK.
-3. Compile o código usando VSCODE
+3. Compile o código "UN-4-Atividade-2-Temporizador-disparo-One-Shot.c" usando VSCODE
 4. Suba o arquivo `.uf2` gerado para o Raspberry Pi Pico W.
 5. Pressione o botão e observe a sequência de LEDs.
 
